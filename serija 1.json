@@ -1,0 +1,21 @@
+[
+  {
+    "serija_naziv": "Naziv Serije 2",
+    "epizode": [
+      {
+        "epizoda": "Epizoda 1",
+        "url": "https://m.my.mail.ru/mail/svenadlanu/video/2/2.html",
+        "video_src": "https://cdn61.my.mail.ru/hv/private/74127161.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.3%3A9090%2Fvideo4%2F74127161-hv&p=f&video_key=dc64edd0f4f9a87f0b7333dce8199ffee11f6056&expire_at=1754496000&touch=1647619449&reg=187&sign=166be2c274507be45c5928f3175cb2d3ccd12466",
+        "last_updated": 1754475791,
+        "expire_at": 1754481600
+      },
+      {
+        "epizoda": "Epizoda 2",
+        "url": "https://m.my.mail.ru/mail/svenadlanu/video/2/2.html",
+        "video_src": "https://cdn61.my.mail.ru/hv/private/74127161.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.3%3A9090%2Fvideo4%2F74127161-hv&p=f&video_key=dc64edd0f4f9a87f0b7333dce8199ffee11f6056&expire_at=1754496000&touch=1647619449&reg=187&sign=166be2c274507be45c5928f3175cb2d3ccd12466",
+        "last_updated": 1754475791,
+        "expire_at": 1754478000
+      }
+    ]
+  }
+]
