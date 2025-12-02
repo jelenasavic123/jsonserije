@@ -1,89 +1,53 @@
 [
   {
-    "serija_naziv": "Sudbinom Povezani",
-    "epizode": [
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/06/00013/jkotohpdilag_,n,h,.urlset/master.m3u8?t=huBqxZXidHLIRUx9MJ6iBDWAdTGLRLdKczfCNTRfITs&s=1764711768&e=43200&f=69596&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/08/00013/yyttkrjaojoj_,n,h,.urlset/master.m3u8?t=bsDrzz-V5QXXse9zl7IBePECFNv0OUL4LsA-oGYZ6S4&s=1764711770&e=43200&f=69519&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/09/00013/ulrfphopoplp_,n,h,.urlset/master.m3u8?t=Z2EUTefvzA-BLUWHGkdH3-37MVh4HoXd_98fLx0Q4mU&s=1764711773&e=43200&f=69395&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/01/00013/ftyyraskfhjp_,n,h,.urlset/master.m3u8?t=ckIcgFX7Fc0ZM-p33s1CGuzS4VWEF92cEhNl46VNsc0&s=1764711775&e=43200&f=69313&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      }
-    ]
+    "episodes": [
+      "https://5775765575.com/hls2/06/00013/jkotohpdilag_,n,h,.urlset/master.m3u8?t=SoP8QxcNaIlmLJnJ3nBQjYeyqvLhe98ICUhEvqvU41c&s=1764711982&e=43200&f=69596&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/08/00013/yyttkrjaojoj_,n,h,.urlset/master.m3u8?t=wUHxsRy-jr-1tLpoMz4slUg_SR7zOtXtIvZWEYlumLM&s=1764711985&e=43200&f=69519&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/09/00013/ulrfphopoplp_,n,h,.urlset/master.m3u8?t=MUcoPBvnIGm9F2O-kYPrmJHnezxUc3fALmqvYLtFVEQ&s=1764711987&e=43200&f=69395&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/01/00013/ftyyraskfhjp_,n,h,.urlset/master.m3u8?t=Wdhd4MS-78X6Iwyqmw8IZUMlfxteRElzWJtq1kXTnTg&s=1764711990&e=43200&f=69313&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+    ],
+    "lastUpdated": 1764711992183,
+    "localName": "Sudbinom Povezani",
+    "seriesName": "Arafta"
   },
   {
-    "serija_naziv": "Zerhun",
-    "epizode": [
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/06/00013/pyglaufdfhrf_,n,h,.urlset/master.m3u8?t=eqF-Zq7BEm7fAwQ-oVCdEwgD_B1DkRENPR6-qJJ9Xwk&s=1764711780&e=43200&f=69625&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/03/00013/yttrjusgftdt_,n,h,.urlset/master.m3u8?t=uOGFUUG5SRN5w4XXTshH3mZ6a29wYR8-_I2LOGeBkco&s=1764711783&e=43200&f=69612&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/06/00013/ttkgsisfityr_,n,h,.urlset/master.m3u8?t=M5mwZgsutLZmEjmkQdA_A9UrNaJzAyNWLrLljTzfOuc&s=1764711787&e=43200&f=69530&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/05/00013/kjpyydjljuyr_,n,h,.urlset/master.m3u8?t=5xR7lkaqu4JVdjZ4fXjvvhOlLWv8fpSA3aDFQwK7euc&s=1764711790&e=43200&f=69506&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/09/00013/pkguurrljyli_,n,h,.urlset/master.m3u8?t=w-BdRSj1WNgA3J5sL2bElVeGYjolo2IT6_Cni1psjz8&s=1764711793&e=43200&f=69473&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/05/00013/fgkdkkpogkir_,n,h,.urlset/master.m3u8?t=MVIF1b6p3z9AornZdpavEA2PkeBs2Div5oaJDNP6qMc&s=1764711795&e=43200&f=69417&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/04/00013/gkgrktiuagok_,n,h,.urlset/master.m3u8?t=WM37cjkEQM8As5OeuxcDVD2Kr6PB_pUw1Dn90mr2bT0&s=1764711798&e=43200&f=69388&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765675.com/hls2/06/00013/lgkksfaaildr_,n,h,.urlset/master.m3u8?t=OohcYGFhLFaf1Cniym_u9_j3_d38KnhkZzqHkSMMnxE&s=1764711801&e=43200&f=69324&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765675.com/hls2/05/00013/iftisigllhia_,n,h,.urlset/master.m3u8?t=sLn3cqKmXzzAf8zEHfBrLGLsT2pxoI9aBPxEP8bJN3U&s=1764711804&e=43200&f=69303&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765675.com/hls2/01/00013/ylagopdaihtd_,n,h,.urlset/master.m3u8?t=1sL8Xm68jbQYWlFk0TOcO4vE7XvfTsrlyqlOD5T87Dc&s=1764711808&e=43200&f=69230&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765675.com/hls2/10/00013/rffapyurfpis_,n,h,.urlset/master.m3u8?t=lOG13-qKbxkeg7ddKYEuCv1CwbFUrDq8HoFJRT2Qc1c&s=1764711811&e=43200&f=69232&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765575.com/hls2/05/00013/ihorppyhpyud_,n,h,.urlset/master.m3u8?t=hdfV2laT-9Owu2uUFDVbIItp_YHEjmm3KqJeTHpUsME&s=1764711814&e=43200&f=69231&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
-      }
-    ]
+    "episodes": [
+      "https://5775765575.com/hls2/06/00013/pyglaufdfhrf_,n,h,.urlset/master.m3u8?t=BGC0ebq0H2f2c5teK8kN6IR1gx1qtCZ4Ywsq6tQTUJA&s=1764711995&e=43200&f=69625&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/03/00013/yttrjusgftdt_,n,h,.urlset/master.m3u8?t=pWM4vvCHtL2Et0kb16cSDa1MmHTBlZ-z6X0iAHMUofM&s=1764711997&e=43200&f=69612&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/06/00013/ttkgsisfityr_,n,h,.urlset/master.m3u8?t=mSUP8Li3q6H7lf7dx5Iu6XKMT0Xa90CY1EL3yjiHG4U&s=1764712001&e=43200&f=69530&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/05/00013/kjpyydjljuyr_,n,h,.urlset/master.m3u8?t=2ix58YCHAeAbfrPAKc1eDoC7EB0-a5B093f-2gMqvgk&s=1764712003&e=43200&f=69506&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/09/00013/pkguurrljyli_,n,h,.urlset/master.m3u8?t=-sFvvNq5MZ4VnN-IJMkbXn1vBpeIEe0CwwZXCqNhxa0&s=1764712005&e=43200&f=69473&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/05/00013/fgkdkkpogkir_,n,h,.urlset/master.m3u8?t=6QjfvHugN2M0YcyRU4ap5MIyycr9yGSiGhBqfhoQTOA&s=1764712008&e=43200&f=69417&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/04/00013/gkgrktiuagok_,n,h,.urlset/master.m3u8?t=-q9Phbv-3Wc7H_bElvETcEoNOTsWOcIYCEH8p9TxNQE&s=1764712011&e=43200&f=69388&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/06/00013/lgkksfaaildr_,n,h,.urlset/master.m3u8?t=jAORG1DOCMwYymEPoVQPr_DWM66Fl7ZKEUpK3GqO-iI&s=1764712014&e=43200&f=69324&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/05/00013/iftisigllhia_,n,h,.urlset/master.m3u8?t=d5XIlLhc0Emm5cYmCdonwPxJEg0nZ6Nz-bAyoc5b4U8&s=1764712017&e=43200&f=69303&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/01/00013/ylagopdaihtd_,n,h,.urlset/master.m3u8?t=srGPNdVFTxtg_LSHrMZuztWPZA5yd9pVU1adKoEdGug&s=1764712020&e=43200&f=69230&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/10/00013/rffapyurfpis_,n,h,.urlset/master.m3u8?t=1u99f6YmmjVGmP2_4XBnorGHfTX_VLFOutigJpjJ-R4&s=1764712023&e=43200&f=69232&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/05/00013/ihorppyhpyud_,n,h,.urlset/master.m3u8?t=1dQ_FNZY6lzeeD0bsul2DsJFt9kyjUDxXzurvf2T88U&s=1764712026&e=43200&f=69231&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+    ],
+    "lastUpdated": 1764712029285,
+    "localName": "Zerhun",
+    "seriesName": "Zerhun"
   },
   {
-    "serija_naziv": "Problematicni",
-    "epizode": [
-      {
-        "epizoda": "",
-        "video_src": "https://5775765675.com/hls2/05/00013/oyupsuojkyhp_,n,h,.urlset/master.m3u8?t=WWjMcI-GYJVLpkzg0FwM6jWGO_jrVp511axPR6_Mn64&s=1764711820&e=43200&f=69497&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
-      },
-      {
-        "epizoda": "",
-        "video_src": "https://5775765675.com/hls2/04/00013/gdyophfjiadh_,n,h,.urlset/master.m3u8?t=IJ9L_qJt2eGJPRBq2J9th-UjCY1kQQgPucoRRThiaS4&s=1764711823&e=43200&f=69255&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
-      }
-    ]
+    "episodes": [
+      "https://5775765575.com/hls2/05/00013/oyupsuojkyhp_,n,h,.urlset/master.m3u8?t=dxdd_uD3H5B-vc_Hoan0znkD_d-euEjsD28lGhDwd7o&s=1764712032&e=43200&f=69497&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575",
+      "https://5775765575.com/hls2/04/00013/gdyophfjiadh_,n,h,.urlset/master.m3u8?t=jzVLZtqoWtuswzytyIxFIaxWs7Y4ZrqdBiFnMy8RJ84&s=1764712035&e=43200&f=69255&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+    ],
+    "lastUpdated": 1764712037902,
+    "localName": "Problematicni",
+    "seriesName": "Sakincali"
+  },
+  {
+    "episodes": [
+      "https://5775765675.com/hls2/06/00013/dpyhddghkylj_,n,h,.urlset/master.m3u8?t=2br1GtOeCFBbf7cI9GO0uQmp0jnux8lufAjGAbFr9go&s=1764712041&e=43200&f=69588&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675",
+      "https://5775765675.com/hls2/06/00013/trjgstfidthk_,n,h,.urlset/master.m3u8?t=hVaqUKV8_p1cgDb7JOlj-YuwVjS7yBSXwFQqi9wwlQc&s=1764712044&e=43200&f=69373&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675",
+      "https://5775765675.com/hls2/01/00013/ykhipjolkgtj_,n,h,.urlset/master.m3u8?t=O_yDDQ08VV97SB1ydByldPSIwVg0He_MU61VcJ75u9Y&s=1764712047&e=43200&f=69151&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675",
+      "https://5775765675.com/hls2/09/00013/tjssstpyatts_,n,h,.urlset/master.m3u8?t=gOfwiQp9sJZnS-M6nDFHKPtruuy517YfDPo1uPtV_B4&s=1764712050&e=43200&f=68935&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675",
+      "https://5775765675.com/hls2/06/00013/ruhtdpihouhu_,n,h,.urlset/master.m3u8?t=lw71QUumKlpJWMpM4f9IaXfoAJ4kY4W9GXRluqVEW_I&s=1764712053&e=43200&f=68496&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
+    ],
+    "lastUpdated": 1764712056536,
+    "localName": "Plodne Zemlje",
+    "seriesName": "Bereketli Topraklar"
   }
 ]
