@@ -1,20 +1,88 @@
 [
   {
-    "serija_naziv": "Naziv Serije 2",
+    "serija_naziv": "Sudbinom Povezani",
     "epizode": [
       {
-        "epizoda": "Epizoda 1",
-        "url": "https://m.my.mail.ru/mail/svenadlanu/video/2/2.html",
-        "video_src": "https://cdn61.my.mail.ru/hv/private/74127161.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.3%3A9090%2Fvideo4%2F74127161-hv&p=f&video_key=dc64edd0f4f9a87f0b7333dce8199ffee11f6056&expire_at=1754496000&touch=1647619449&reg=187&sign=166be2c274507be45c5928f3175cb2d3ccd12466",
-        "last_updated": 1754475791,
-        "expire_at": 1754481600
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/06/00013/jkotohpdilag_,n,h,.urlset/master.m3u8?t=huBqxZXidHLIRUx9MJ6iBDWAdTGLRLdKczfCNTRfITs&s=1764711768&e=43200&f=69596&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
       },
       {
-        "epizoda": "Epizoda 2",
-        "url": "https://m.my.mail.ru/mail/svenadlanu/video/2/2.html",
-        "video_src": "https://cdn61.my.mail.ru/hv/private/74127161.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.3%3A9090%2Fvideo4%2F74127161-hv&p=f&video_key=dc64edd0f4f9a87f0b7333dce8199ffee11f6056&expire_at=1754496000&touch=1647619449&reg=187&sign=166be2c274507be45c5928f3175cb2d3ccd12466",
-        "last_updated": 1754475791,
-        "expire_at": 1754478000
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/08/00013/yyttkrjaojoj_,n,h,.urlset/master.m3u8?t=bsDrzz-V5QXXse9zl7IBePECFNv0OUL4LsA-oGYZ6S4&s=1764711770&e=43200&f=69519&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/09/00013/ulrfphopoplp_,n,h,.urlset/master.m3u8?t=Z2EUTefvzA-BLUWHGkdH3-37MVh4HoXd_98fLx0Q4mU&s=1764711773&e=43200&f=69395&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/01/00013/ftyyraskfhjp_,n,h,.urlset/master.m3u8?t=ckIcgFX7Fc0ZM-p33s1CGuzS4VWEF92cEhNl46VNsc0&s=1764711775&e=43200&f=69313&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      }
+    ]
+  },
+  {
+    "serija_naziv": "Zerhun",
+    "epizode": [
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/06/00013/pyglaufdfhrf_,n,h,.urlset/master.m3u8?t=eqF-Zq7BEm7fAwQ-oVCdEwgD_B1DkRENPR6-qJJ9Xwk&s=1764711780&e=43200&f=69625&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/03/00013/yttrjusgftdt_,n,h,.urlset/master.m3u8?t=uOGFUUG5SRN5w4XXTshH3mZ6a29wYR8-_I2LOGeBkco&s=1764711783&e=43200&f=69612&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/06/00013/ttkgsisfityr_,n,h,.urlset/master.m3u8?t=M5mwZgsutLZmEjmkQdA_A9UrNaJzAyNWLrLljTzfOuc&s=1764711787&e=43200&f=69530&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/05/00013/kjpyydjljuyr_,n,h,.urlset/master.m3u8?t=5xR7lkaqu4JVdjZ4fXjvvhOlLWv8fpSA3aDFQwK7euc&s=1764711790&e=43200&f=69506&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/09/00013/pkguurrljyli_,n,h,.urlset/master.m3u8?t=w-BdRSj1WNgA3J5sL2bElVeGYjolo2IT6_Cni1psjz8&s=1764711793&e=43200&f=69473&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/05/00013/fgkdkkpogkir_,n,h,.urlset/master.m3u8?t=MVIF1b6p3z9AornZdpavEA2PkeBs2Div5oaJDNP6qMc&s=1764711795&e=43200&f=69417&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/04/00013/gkgrktiuagok_,n,h,.urlset/master.m3u8?t=WM37cjkEQM8As5OeuxcDVD2Kr6PB_pUw1Dn90mr2bT0&s=1764711798&e=43200&f=69388&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765675.com/hls2/06/00013/lgkksfaaildr_,n,h,.urlset/master.m3u8?t=OohcYGFhLFaf1Cniym_u9_j3_d38KnhkZzqHkSMMnxE&s=1764711801&e=43200&f=69324&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765675.com/hls2/05/00013/iftisigllhia_,n,h,.urlset/master.m3u8?t=sLn3cqKmXzzAf8zEHfBrLGLsT2pxoI9aBPxEP8bJN3U&s=1764711804&e=43200&f=69303&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765675.com/hls2/01/00013/ylagopdaihtd_,n,h,.urlset/master.m3u8?t=1sL8Xm68jbQYWlFk0TOcO4vE7XvfTsrlyqlOD5T87Dc&s=1764711808&e=43200&f=69230&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765675.com/hls2/10/00013/rffapyurfpis_,n,h,.urlset/master.m3u8?t=lOG13-qKbxkeg7ddKYEuCv1CwbFUrDq8HoFJRT2Qc1c&s=1764711811&e=43200&f=69232&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765575.com/hls2/05/00013/ihorppyhpyud_,n,h,.urlset/master.m3u8?t=hdfV2laT-9Owu2uUFDVbIItp_YHEjmm3KqJeTHpUsME&s=1764711814&e=43200&f=69231&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765575&p2=5775765575"
+      }
+    ]
+  },
+  {
+    "serija_naziv": "Problematicni",
+    "epizode": [
+      {
+        "epizoda": "",
+        "video_src": "https://5775765675.com/hls2/05/00013/oyupsuojkyhp_,n,h,.urlset/master.m3u8?t=WWjMcI-GYJVLpkzg0FwM6jWGO_jrVp511axPR6_Mn64&s=1764711820&e=43200&f=69497&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
+      },
+      {
+        "epizoda": "",
+        "video_src": "https://5775765675.com/hls2/04/00013/gdyophfjiadh_,n,h,.urlset/master.m3u8?t=IJ9L_qJt2eGJPRBq2J9th-UjCY1kQQgPucoRRThiaS4&s=1764711823&e=43200&f=69255&srv=pphgdkjrhkrkt&i=0.0&sp=0&p1=5775765675&p2=5775765675"
       }
     ]
   }
